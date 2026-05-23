@@ -1,0 +1,5 @@
+flet[all]
+flet-charts
+matplotlib
+numpy
+scipy
